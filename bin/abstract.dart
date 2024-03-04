@@ -1,1 +1,5 @@
-abstract class Stud
+class AcRemote{
+
+
+
+}
